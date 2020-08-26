@@ -279,9 +279,5 @@ defaults:
       read_time: true
       comments: # true
       share: true
-<<<<<<< HEAD:_config.yml
       related: true
-=======
-      related: true
-      
->>>>>>> a062969d3ab1c16ebf238c842a775fb05ce5cfa4:_cofig.yml
+
