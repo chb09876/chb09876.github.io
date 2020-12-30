@@ -1,38 +1,38 @@
 body {
-    margin: 0px;
+  margin: 0px;
 }
 
 ul {
-    font-size: 20px;
-    border-right: solid gray 3px;
-    margin: 0px;
-    width: 200px;
-    padding: 40px;
-    list-style-type: circle;
+  font-size: 20px;
+  border-right: solid gray 3px;
+  margin: 0px;
+  width: 200px;
+  padding: 40px;
+  list-style-type: circle;
 }
 
 a {
-    text-decoration: none;
-    color: olivedrab;
+  text-decoration: none;
+  color: olivedrab;
 }
 
-h1 {
-    font-size: 50px;
-    text-align: center;
-    border-bottom: solid gray 3px;
-    padding: 20px;
-    margin: 0px;
+#blog-title {
+  font-size: 50px;
+  text-align: center;
+  border-bottom: solid gray 3px;
+  padding: 20px;
+  margin: 0px;
 }
 
 #grid {
-    display: grid;
-    grid-template-columns: 285px 1fr;
+  display: grid;
+  grid-template-columns: 285px 1fr;
 }
 
-#nav li a{
-    color:rgb(46, 92, 179);
+#nav li a {
+  color: rgb(46, 92, 179);
 }
 
 #intro {
-    padding: 15px;
+  padding: 15px;
 }
