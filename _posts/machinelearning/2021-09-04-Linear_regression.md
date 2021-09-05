@@ -1,5 +1,5 @@
 ---
-last_modified_at: "2021-09-03 21:51:54"
+last_modified_at: "2021-09-04 19:43:06"
 title: "[기계학습] Linear regression"
 excerpt: "머신러닝의 기초인 Linear regression을 알아본다"
 

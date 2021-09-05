@@ -4,7 +4,8 @@ main:
     url: /about/
   - title: "Categories"
     url: /categories/
-
+  - title: "기계학습"
+    url: /categories/기계학습/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
