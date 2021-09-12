@@ -16,11 +16,11 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "조하빈의 보물창고"
+title: "조하빈의 놀이터"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "habin"
-description: "조하빈의 보물창고"
+description: "조하빈의 놀이터"
 url: "https://chb09876.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name: "habin"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "잘 먹고, 잘 싸고, 잘 자고"
+  bio: "배고파"
   location: "South Korea"
   email:
   links:
